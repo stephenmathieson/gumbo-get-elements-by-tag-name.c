@@ -9,7 +9,6 @@
   ],
   "dependencies": {
     "list": "*",
-    "stephenmathieson/str-copy.c": "*",
     "stephenmathieson/case.c": "*",
     "stephenmathieson/trim.c": "*"
   },
